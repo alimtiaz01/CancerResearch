@@ -1,1 +1,1 @@
-Row data from TCGA and ICGC
+Row data from ICGC
